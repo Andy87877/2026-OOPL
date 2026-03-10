@@ -25,9 +25,10 @@
 
 # Development timeline
 
-- Week 2：環境建置與核心類別
-    - [ ] 建立專案目錄與設定基礎框架
-    - [ ] 實作基礎物件類別與資料型別
+- Week 2：環境建置與核心類別與收集素材
+    - [x] 建立專案目錄與設定基礎框架
+    - [x] 實作基礎物件類別與資料型別
+    - [x] 收集並整理遊戲素材（圖像、音效、關卡設計）
 
 - Week 3：場景與基礎渲染
     - [ ] 實作場景狀態機與切換管理
@@ -89,6 +90,15 @@
     - [ ] 整合背景音樂與各式特效音
     - [ ] 拍攝遊玩影片、準備報告並提交
 
-# 長頸鹿大冒險通關證明
+## 長頸鹿大冒險通關證明
 
 ![長頸鹿大冒險遊戲通關畫面截圖](PTSD-END.png)
+
+## 還原關卡(不會1:1還原，但會盡量參考原版的元素配置與難度曲線)
+
+1-1 ![alt text](map_reference/1-1.png)
+1-2 ![alt text](map_reference/1-2.png)
+8-4 ![alt text](map_reference/8-4.png)
+
+## My OOPL_mario github repository
+https://github.com/Andy87877/NTUT_OOPL_mario
